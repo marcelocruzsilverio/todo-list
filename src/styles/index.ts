@@ -55,7 +55,7 @@ export const Botao = styled.button`
   margin-right: 8px;
 
   @media (max-width: 768px) {
-    margin-left: 7px;
+    margin-left: 8px;
   }
 `
 
