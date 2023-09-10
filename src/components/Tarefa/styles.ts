@@ -75,7 +75,7 @@ export const Tag = styled.span<TagProps>`
 `
 
 export const DescricaoTarefa = styled.textarea`
-  color: #8b8b8b;
+  color: #000;
   font-size: 14px;
   line-height: 24px;
   font-family: 'Roboto Mono', monospace;
